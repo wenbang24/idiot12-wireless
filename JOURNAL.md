@@ -19,3 +19,6 @@ Time spent: 30 mins
 ## 24 May 2025 - Schematic
 1st draft of the schematic - hoping it doesn't blow up :)
 Time spent: 3 hrs
+
+2nd draft - removed some unnecessary voltage sensing circuitry
+Time spent: 1 hr

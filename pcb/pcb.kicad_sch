@@ -2172,241 +2172,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_marbastlib-various:MAX17048"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MAX17048"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm"
-				(at -9.525 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf"
-				(at -9.525 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Fuel gauge chip with integrated current sensing resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "maxim integrated modelgauge"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MAX17048_0_0"
-				(pin power_in line
-					(at -8.89 6.35 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -8.89 3.81 0)
-					(length 2.54)
-					(name "CELL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -8.89 -1.27 0)
-					(length 2.54)
-					(name "CTG"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -8.89 -3.81 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -8.89 -6.35 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin open_collector line
-					(at 8.89 6.35 180)
-					(length 2.54)
-					(name "~{ALRT}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 8.89 1.27 180)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 8.89 -1.27 180)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 8.89 -6.35 180)
-					(length 2.54)
-					(name "QSTRT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MAX17048_0_1"
-				(rectangle
-					(start -6.35 8.89)
-					(end 6.35 -8.89)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "PCM_marbastlib-various:TC2030_SWD"
 			(pin_names
 				(offset 1.016)
@@ -6146,22 +5911,10 @@
 		(uuid "04096d6c-6b3f-4912-9ea3-3ea2840bf771")
 	)
 	(junction
-		(at 50.8 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "093025ea-b2ec-4ed9-b819-da43cf1c4afb")
-	)
-	(junction
 		(at 233.68 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f42160a-c0f7-4503-a0fe-ee3fd47578b1")
-	)
-	(junction
-		(at 78.74 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1acb35f0-eabd-4727-aa45-da8f79110e07")
 	)
 	(junction
 		(at 160.02 120.65)
@@ -6224,12 +5977,6 @@
 		(uuid "6efc71d1-3fc3-4080-aff5-1f2d86122866")
 	)
 	(junction
-		(at 85.09 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74fdb639-4c8c-4445-92bf-274e33a03427")
-	)
-	(junction
 		(at 247.65 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6284,12 +6031,6 @@
 		(uuid "ab71b9d2-fbbe-4f7b-bc53-9bed8e28f469")
 	)
 	(junction
-		(at 50.8 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c05a43c6-55e3-4d60-8e29-b774658f6fbb")
-	)
-	(junction
 		(at 48.26 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6306,12 +6047,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c781d863-0520-4dd9-b02f-0d3bffb36c71")
-	)
-	(junction
-		(at 43.18 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca57f341-f413-46fe-a89f-bf9f3982cf2e")
 	)
 	(junction
 		(at 39.37 33.02)
@@ -6336,12 +6071,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7e20f4e-7c3a-40ee-b549-6ebf7844b5b4")
-	)
-	(junction
-		(at 50.8 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f91c982d-62ff-4df3-8ff3-68ef67075e90")
 	)
 	(wire
 		(pts
@@ -6385,26 +6114,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 100.33) (xy 50.8 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1abf986b-b605-4836-9b32-1fb8d033191d")
-	)
-	(wire
-		(pts
-			(xy 68.58 95.25) (xy 78.74 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b71ec0a-6b3a-41cd-ab4d-79ce4f589c9a")
-	)
-	(wire
-		(pts
 			(xy 247.65 66.04) (xy 252.73 66.04)
 		)
 		(stroke
@@ -6412,16 +6121,6 @@
 			(type default)
 		)
 		(uuid "1c21a97a-1b9e-4740-99a1-68a80d6b9488")
-	)
-	(wire
-		(pts
-			(xy 43.18 102.87) (xy 50.8 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ca6250b-1eb0-42d3-be00-c1bb8df41fcc")
 	)
 	(wire
 		(pts
@@ -6455,26 +6154,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 93.98) (xy 78.74 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c3b48b5-b4e6-401c-80be-43191b4650d5")
-	)
-	(wire
-		(pts
-			(xy 85.09 93.98) (xy 85.09 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "332d5b1e-ee8c-4351-97a3-f2fd6b14f6ee")
-	)
-	(wire
-		(pts
 			(xy 198.12 125.73) (xy 198.12 132.08)
 		)
 		(stroke
@@ -6482,16 +6161,6 @@
 			(type default)
 		)
 		(uuid "33f150f9-471a-4c57-9983-36cb3cfd48e7")
-	)
-	(wire
-		(pts
-			(xy 50.8 97.79) (xy 50.8 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35074437-12c1-4073-9096-fc6cc11b672b")
 	)
 	(wire
 		(pts
@@ -6602,16 +6271,6 @@
 			(type default)
 		)
 		(uuid "59b5d1b3-6d80-4a23-8be8-e2a830d48965")
-	)
-	(wire
-		(pts
-			(xy 68.58 97.79) (xy 85.09 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f7c0794-284e-4b84-87b2-7debcea59fc8")
 	)
 	(wire
 		(pts
@@ -6745,16 +6404,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 97.79) (xy 87.63 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94ef4311-fe3a-436c-aae6-a24d380336e9")
-	)
-	(wire
-		(pts
 			(xy 160.02 125.73) (xy 167.64 125.73)
 		)
 		(stroke
@@ -6772,16 +6421,6 @@
 			(type default)
 		)
 		(uuid "a5370fa7-d100-456c-a831-2607376515ab")
-	)
-	(wire
-		(pts
-			(xy 78.74 95.25) (xy 87.63 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b35d9e0f-21c8-4fb2-b4e7-ca6b89355d32")
 	)
 	(wire
 		(pts
@@ -6895,16 +6534,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 97.79) (xy 43.18 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8493f19-d4cd-4dc5-a424-7a5603c40697")
-	)
-	(wire
-		(pts
 			(xy 207.01 53.34) (xy 208.28 53.34)
 		)
 		(stroke
@@ -6915,16 +6544,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 90.17) (xy 50.8 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1d1309f-40a7-4a31-b1a6-50410f3a6709")
-	)
-	(wire
-		(pts
 			(xy 167.64 120.65) (xy 173.99 120.65)
 		)
 		(stroke
@@ -6932,16 +6551,6 @@
 			(type default)
 		)
 		(uuid "f75e7699-cf75-4347-b15b-b581b83c0515")
-	)
-	(wire
-		(pts
-			(xy 43.18 90.17) (xy 50.8 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd646a64-b8b2-493b-a10e-b17dbc5677e0")
 	)
 	(wire
 		(pts
@@ -6985,17 +6594,6 @@
 		)
 		(uuid "024df23f-6fe8-4951-81bf-e71a20a9794c")
 	)
-	(hierarchical_label "SCL"
-		(shape bidirectional)
-		(at 87.63 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0c525afd-2f1a-4fc3-9a35-f8dbcf8785bc")
-	)
 	(hierarchical_label "sw7"
 		(shape output)
 		(at 93.98 71.12 180)
@@ -7018,17 +6616,6 @@
 		)
 		(uuid "258f1e43-e801-4559-9a0b-b96a23bdabf2")
 	)
-	(hierarchical_label "SDA"
-		(shape bidirectional)
-		(at 87.63 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2e8cad51-9021-4efe-bb0c-7ca40d54151d")
-	)
 	(hierarchical_label "VSENSE"
 		(shape output)
 		(at 67.31 64.77 0)
@@ -7050,17 +6637,6 @@
 			(justify right)
 		)
 		(uuid "391b84ee-1a97-4732-93b9-d99faf30962a")
-	)
-	(hierarchical_label "ALERT"
-		(shape output)
-		(at 68.58 90.17 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4105f182-4960-4973-9bf3-20c02fe6cf64")
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
@@ -7338,75 +6914,6 @@
 		(uuid "f45f95b3-17f0-414d-91e0-6944c37da55f")
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 85.09 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "07aa48af-f98f-4808-becf-c68edb7ee408")
-		(property "Reference" "R8"
-			(at 86.106 90.17 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5k1"
-			(at 86.106 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 85.09 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 85.09 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9a49481-c720-4c8f-b398-b4525562764a")
-		)
-		(pin "2"
-			(uuid "613a6d87-810a-4b6a-9513-55e2e5b802a8")
-		)
-		(instances
-			(project "pcb"
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 250.19 104.14 0)
 		(unit 1)
@@ -7640,7 +7147,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "16104b89-c31a-4e54-ac53-85d9cb489842")
 		(property "Reference" "#PWR014"
 			(at 223.52 138.43 0)
@@ -7652,7 +7158,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 223.52 129.54 0)
+			(at 220.218 130.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7789,7 +7295,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 231.14 53.34 0)
 			(effects
 				(font
@@ -7924,7 +7430,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 64.77 119.38 0)
 			(effects
 				(font
@@ -7992,7 +7498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 87.63 119.38 0)
 			(effects
 				(font
@@ -8128,7 +7634,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 209.55 93.98 0)
 			(effects
 				(font
@@ -8188,7 +7694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k"
+		(property "Value" "5k1"
 			(at 233.934 64.77 0)
 			(effects
 				(font
@@ -8197,7 +7703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 63.5 0)
 			(effects
 				(font
@@ -8267,7 +7773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 193.04 137.16 0)
 			(effects
 				(font
@@ -8337,7 +7843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 252.73 55.88 0)
 			(effects
 				(font
@@ -8553,7 +8059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 152.4 128.27 0)
 			(effects
 				(font
@@ -8623,7 +8129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 198.12 123.19 0)
 			(effects
 				(font
@@ -8693,7 +8199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 25.4 27.94 0)
 			(effects
 				(font
@@ -8958,7 +8464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 30.48 119.38 0)
 			(effects
 				(font
@@ -8995,75 +8501,6 @@
 			(project ""
 				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 78.74 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5db7b2b7-4669-4785-94d1-9d122e96b903")
-		(property "Reference" "R7"
-			(at 79.756 90.17 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5k1"
-			(at 79.756 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 78.74 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b75a1830-c07e-469d-81da-47b6d6c978f9")
-		)
-		(pin "2"
-			(uuid "b79849a2-9886-4fe0-8b81-b57c75f0f895")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9358,7 +8795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 217.17 55.118 90)
 			(effects
 				(font
@@ -9426,7 +8863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 53.34 119.38 0)
 			(effects
 				(font
@@ -9496,7 +8933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 238.76 137.16 0)
 			(effects
 				(font
@@ -9701,7 +9138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 57.15 67.31 0)
 			(effects
 				(font
@@ -9925,7 +9362,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 167.64 123.19 0)
 			(effects
 				(font
@@ -10058,7 +9495,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 196.85 68.58 0)
 			(effects
 				(font
@@ -10172,7 +9609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 160.02 123.19 0)
 			(effects
 				(font
@@ -10324,7 +9761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 57.15 27.94 0)
 			(effects
 				(font
@@ -10352,10 +9789,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "33281cde-f15b-46a3-a9f1-72d202d84eb3")
+			(uuid "33281cde-f15b-46a3-a9f1-72d202d84eb4")
 		)
 		(pin "1"
-			(uuid "d0f0027c-9397-41aa-8237-f062fea94063")
+			(uuid "d0f0027c-9397-41aa-8237-f062fea94064")
 		)
 		(instances
 			(project ""
@@ -10526,7 +9963,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 199.39 95.25 0)
 			(effects
 				(font
@@ -10634,138 +10071,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 50.8 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7d5c1ac-ea6e-4975-b87c-7c9727606b22")
-		(property "Reference" "#PWR030"
-			(at 50.8 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 50.8 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "daa7702c-335d-4eb8-828d-c71d2d0cb97f")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 68.58 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad683906-9f07-4176-97bb-9a4d4c723646")
-		(property "Reference" "#PWR031"
-			(at 68.58 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 68.58 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.58 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 68.58 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "daa7702c-335d-4eb8-828d-c71d2d0cb97f")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 229.87 63.5 0)
 		(unit 1)
@@ -10783,8 +10088,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k"
-			(at 226.314 64.77 0)
+		(property "Value" "5k1"
+			(at 225.552 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10792,7 +10097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 229.87 63.5 0)
 			(effects
 				(font
@@ -10992,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 41.91 119.38 0)
 			(effects
 				(font
@@ -11062,7 +10367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 57.15 62.23 0)
 			(effects
 				(font
@@ -11090,10 +10395,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "375e7028-12c0-40a4-8993-28366d9ab914")
+			(uuid "375e7028-12c0-40a4-8993-28366d9ab915")
 		)
 		(pin "1"
-			(uuid "39fd500e-a1ab-4c6b-9364-8f2f7a86a41d")
+			(uuid "39fd500e-a1ab-4c6b-9364-8f2f7a86a41e")
 		)
 		(instances
 			(project ""
@@ -11332,7 +10637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 76.2 119.38 0)
 			(effects
 				(font
@@ -11435,71 +10740,6 @@
 			(project ""
 				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 43.18 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5b76e4e-76cb-45be-841e-d86e802db43f")
-		(property "Reference" "#PWR032"
-			(at 43.18 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 42.672 85.852 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 43.18 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "825a77b6-f97e-4ed2-92d8-a4d74d541001")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -11799,95 +11039,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-various:MAX17048")
-		(at 59.69 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dfef3297-e972-4f55-852a-853bae849c4d")
-		(property "Reference" "U5"
-			(at 59.69 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MAX17048"
-			(at 59.69 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm"
-			(at 50.165 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf"
-			(at 50.165 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fuel gauge chip with integrated current sensing resistor"
-			(at 59.69 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "58161541-ce23-4798-9a08-da97537e032e")
-		)
-		(pin "9"
-			(uuid "64ef0acb-efbd-4e13-b0ce-e8e840097565")
-		)
-		(pin "5"
-			(uuid "041c4ee7-0811-4a3d-9e1f-bd79b982f832")
-		)
-		(pin "8"
-			(uuid "6d0270b6-c36f-4077-9f7e-2f1617ef2dc1")
-		)
-		(pin "7"
-			(uuid "1f07508a-7732-4278-be5a-036a754244f3")
-		)
-		(pin "6"
-			(uuid "90c20a5c-29ba-47ea-9b50-2d3cb5945c20")
-		)
-		(pin "2"
-			(uuid "9963c96e-5afa-466c-9cdb-d5516ed7ee48")
-		)
-		(pin "1"
-			(uuid "d777c7a9-f1c2-436b-8621-d69b0e2e97eb")
-		)
-		(pin "3"
-			(uuid "68d67993-c91a-4d25-9072-a5c90a86b8ad")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+VSW")
 		(at 57.15 59.69 0)
 		(unit 1)
@@ -11981,7 +11132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 48.26 27.94 0)
 			(effects
 				(font
@@ -12009,85 +11160,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "33281cde-f15b-46a3-a9f1-72d202d84eb3")
+			(uuid "33281cde-f15b-46a3-a9f1-72d202d84eb5")
 		)
 		(pin "1"
-			(uuid "d0f0027c-9397-41aa-8237-f062fea94063")
+			(uuid "d0f0027c-9397-41aa-8237-f062fea94065")
 		)
 		(instances
 			(project ""
 				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
 					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 43.18 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ef017470-8ea9-4b7f-aa77-0c74b23bca94")
-		(property "Reference" "C8"
-			(at 45.72 99.0662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 45.72 101.6062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 43.18 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5930e068-44f9-4fc0-b629-75bffd1fb5f1")
-		)
-		(pin "2"
-			(uuid "20f96927-0ba9-4f09-8eef-ec795ad9e4e8")
-		)
-		(instances
-			(project ""
-				(path "/ca7e7be3-8586-46b3-8a09-fe6a6c4a0309"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -12186,7 +11267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 152.4 123.19 90)
 			(effects
 				(font
@@ -12264,7 +11345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 191.262 93.98 90)
 			(effects
 				(font

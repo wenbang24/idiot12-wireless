@@ -15,3 +15,7 @@ Explanation:
 - Press Q, E, Z, and C for S
 (a bit of a weird system but its kinda cool)
 Time spent: 30 mins
+
+## 24 May 2025 - Schematic
+1st draft of the schematic - hoping it doesn't blow up :)
+Time spent: 3 hrs

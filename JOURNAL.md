@@ -23,4 +23,8 @@ Time spent: 3 hrs
 2nd draft - removed some unnecessary voltage sensing circuitry
 Time spent: 1 hr
 
-##
+## 29 May 2025 - PCB Routing
+Someone on Slack has told me that my schematic is ok :)
+Removed the really expensive debug connector and replaced it with a normal 6 pin ICSP header
+Also routed the PCB
+Time spent: 4.5 hrs

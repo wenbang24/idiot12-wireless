@@ -526,6 +526,10 @@
       {
         "netclass": "Power",
         "pattern": "Net-(J3-Pin_1)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D2-K)"
       }
     ]
   },

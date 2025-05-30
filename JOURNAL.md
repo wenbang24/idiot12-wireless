@@ -28,3 +28,7 @@ Someone on Slack has told me that my schematic is ok :)
 Removed the really expensive debug connector and replaced it with a normal 6 pin ICSP header
 Also routed the PCB
 Time spent: 4.5 hrs
+
+## 30 May 2025 - PCB Review, starting v2
+@koeg has reviewed my PCB (tysm), added a ground and 5V plane, so restarted routing
+Time spent: 3 hrs

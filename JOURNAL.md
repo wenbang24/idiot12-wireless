@@ -32,3 +32,8 @@ Time spent: 4.5 hrs
 ## 30 May 2025 - PCB Review, starting v2
 @koeg has reviewed my PCB (tysm), added a ground and 5V plane, so restarted routing
 Time spent: 3 hrs
+
+## 31 May 2025 - PCB Review, v2
+A new day, a new PCB iteration
+Finished 2nd draft of PCB, awaiting review
+Time spent: 3 hrs

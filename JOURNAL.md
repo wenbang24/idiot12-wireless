@@ -19,15 +19,20 @@ Time spent: 30 mins
 ## 24 May 2025 - Schematic
 1st draft of the schematic - hoping it doesn't blow up :)
 Time spent: 3 hrs
+![image](img/schematicv1.png)
 
 2nd draft - removed some unnecessary voltage sensing circuitry
 Time spent: 1 hr
+![image](img/schematicv2.png)
 
 ## 29 May 2025 - PCB Routing
-Someone on Slack has told me that my schematic is ok :)
+@koeg Slack has told me that my schematic is ok :)
 Removed the really expensive debug connector and replaced it with a normal 6 pin ICSP header
 Also routed the PCB
 Time spent: 4.5 hrs
+![image](img/pcbv1_1.png)
+![image](img/pcbv1_2.png)
+![image](img/pcbv1_3.png)
 
 ## 30 May 2025 - PCB Review, starting v2
 @koeg has reviewed my PCB (tysm), added a ground and 5V plane, so restarted routing
@@ -37,3 +42,8 @@ Time spent: 3 hrs
 A new day, a new PCB iteration
 Finished 2nd draft of PCB, awaiting review
 Time spent: 3 hrs
+![image](img/pcbv2_1.png)
+![image](img/pcbv2_2.png)
+![image](img/pcbv2_3.png)
+![image](img/pcbv2_4.png)
+![image](img/pcbv2_5.png)

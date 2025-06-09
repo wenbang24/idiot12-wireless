@@ -13779,7 +13779,7 @@
 		(uuid "56e0d730-4d67-4c53-a21e-96b9a5a22c67")
 		(hatch edge 0.5)
 		(connect_pads
-			(clearance 0.5)
+			(clearance 0)
 		)
 		(min_thickness 0.25)
 		(filled_areas_thickness no)

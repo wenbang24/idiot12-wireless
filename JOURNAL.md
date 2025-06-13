@@ -59,6 +59,14 @@ Time spent: 3 hrs
 ![image](img/pcbv2_4.png)
 ![image](img/pcbv2_5.png)
 
-## 1 June - 13 June 2025 - Exams
+## 1 June - 13 June 2025 - Exams (not an actual journal entry)
 :|
 
+## 13 June 2025 - PCB Review, v3
+Finally back from exams, and I have a new PCB revision! Now using 2 layers instead of 4, which is much cheaper :). Also realised that I could put components behind the switches, so I did that. It is much smaller now.
+
+Time spent: 4 hrs
+![image](img/pcbv3_1.png)
+![image](img/pcbv3_2.png)
+![image](img/pcbv3_3.png)
+![image](img/pcbv3_4.png)

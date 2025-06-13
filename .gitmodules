@@ -1,9 +1,9 @@
-[submodule "MX_V2"]
-	path = MX_V2
-	url = https://github.com/ai03-2725/MX_V2
 [submodule "random-keyboard-parts.pretty"]
 	path = random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
 [submodule "marbastlib"]
 	path = marbastlib
 	url = https://github.com/ebastler/marbastlib
+[submodule "pcb/Kicad_Personal_Lib"]
+	path = pcb/Kicad_Personal_Lib
+	url = https://github.com/HorrorTroll/Kicad_Personal_Lib

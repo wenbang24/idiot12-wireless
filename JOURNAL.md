@@ -58,3 +58,7 @@ Time spent: 3 hrs
 ![image](img/pcbv2_3.png)
 ![image](img/pcbv2_4.png)
 ![image](img/pcbv2_5.png)
+
+## 1 June - 13 June 2025 - Exams
+:|
+

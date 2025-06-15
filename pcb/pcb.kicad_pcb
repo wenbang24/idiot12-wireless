@@ -986,7 +986,7 @@
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
-			(at 1.27 7.46 90)
+			(at 1.75 4.565 180)
 			(layer "F.Fab")
 			(uuid "e3f2e0ca-2bb6-428a-b985-e572af632d44")
 			(effects
@@ -1408,7 +1408,7 @@
 			)
 		)
 		(property "Value" "nRF52840_holyiot_18010"
-			(at 0 2.8 0)
+			(at -0.175 -0.025 180)
 			(layer "F.Fab")
 			(uuid "f3da2e86-365b-4071-9c0f-54dda2d312e5")
 			(effects
@@ -1632,7 +1632,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.175 2.775 180)
 			(layer "F.Fab")
 			(uuid "769e1a67-17bf-4d4f-897f-14cc19121266")
 			(effects
@@ -5768,9 +5768,9 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 1.43 0)
+			(at -2.5 0.05 0)
 			(layer "B.SilkS")
-			(uuid "fa583a6a-ca4c-42d9-be2e-d6c306d1ceb6")
+			(uuid "1ef74f6e-72f0-4657-9f1c-f9cc4521a848")
 			(effects
 				(font
 					(size 1 1)
@@ -5782,7 +5782,7 @@
 		(property "Value" "1u"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
-			(uuid "be28e1cb-49c8-4af7-8e90-347871612ca6")
+			(uuid "3250ba86-5f48-46aa-86ab-5d4c8b7eedac")
 			(effects
 				(font
 					(size 1 1)
@@ -5795,7 +5795,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "56f62434-ab90-43e4-8d30-f763bf706ef5")
+			(uuid "6ca5326d-2961-4cbc-9417-f2d5aedf692b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5808,7 +5808,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4cd0d20d-4769-4e69-93f5-20b67ba7194e")
+			(uuid "446a7a74-2e66-4786-a955-e97fc95045c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6211,7 +6211,7 @@
 		(at 91.275 80.875 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW6"
-			(at 5 -7.4 0)
+			(at 0.85 -2.8 0)
 			(layer "B.SilkS")
 			(uuid "3c09b937-3781-4799-880a-2cffcfd71372")
 			(effects
@@ -6987,7 +6987,7 @@
 		(at 55.275 80.875 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW8"
-			(at 5 -7.4 0)
+			(at 1.125 -3.3 0)
 			(layer "B.SilkS")
 			(uuid "558806ca-aa70-446f-bad5-bb95b4a16b2b")
 			(effects
@@ -7764,7 +7764,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 1.43 0)
+			(at -2.525 -0.05 0)
 			(layer "B.SilkS")
 			(uuid "3345473e-e7fb-4412-a523-af198e09ab37")
 			(effects
@@ -7967,7 +7967,7 @@
 		(at 73.27 80.875 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW7"
-			(at 5 -7.4 0)
+			(at 0.27 -2.975 0)
 			(layer "B.SilkS")
 			(uuid "2f7f71dd-66c9-470f-90c5-d54c54d65cf9")
 			(effects
@@ -9152,7 +9152,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0 1.43 0)
+			(at -2.525 0.05 0)
 			(layer "B.SilkS")
 			(uuid "b34af2cb-461e-4ffe-9449-e18f9379aa24")
 			(effects
@@ -10336,7 +10336,7 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U4"
-			(at 0 2.4 0)
+			(at 6.9375 -1.225 0)
 			(layer "B.SilkS")
 			(uuid "9f51bd79-5014-49de-bcba-8690ac1baf16")
 			(effects
@@ -10348,7 +10348,7 @@
 			)
 		)
 		(property "Value" "XC6206PxxxMR"
-			(at 0 -2.4 0)
+			(at 8.3125 0.05 0)
 			(layer "B.Fab")
 			(uuid "5a083650-e3a6-4b19-a2c8-56308a2f5e46")
 			(effects

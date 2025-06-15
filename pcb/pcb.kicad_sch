@@ -6341,6 +6341,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C151162"
+			(at 201.93 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc86f94c-60c8-48a9-b78b-940ea76754ac")
 		)
@@ -6679,6 +6688,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 203.2 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3297a865-4bdb-4354-94a4-693799fef6b5")
 		)
@@ -6749,6 +6767,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 190.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d4b5a68c-0c40-4098-b9b0-0f794f10862b")
 		)
@@ -6809,6 +6836,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 217.17 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C221841"
 			(at 217.17 97.79 0)
 			(effects
 				(font
@@ -6956,6 +6992,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22843"
+			(at 149.86 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac0cd911-2d47-4d90-8959-da778cec74d5")
 		)
@@ -7026,6 +7071,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 195.58 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccbb7c67-e45a-489f-a512-63eb6e87d7a9")
 		)
@@ -7088,6 +7142,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 17.78 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15849"
 			(at 17.78 24.13 0)
 			(effects
 				(font
@@ -7837,6 +7900,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5116479"
+			(at 30.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "946ca8bd-75c7-4f8c-8f25-a2ccb890ead6")
 		)
@@ -7919,6 +7991,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C4077045"
+			(at 62.23 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "375e7028-12c0-40a4-8993-28366d9ab914")
 		)
@@ -7980,6 +8061,15 @@
 			)
 		)
 		(property "Description" "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
+			(at 31.75 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5446"
 			(at 31.75 21.59 0)
 			(effects
 				(font
@@ -8053,6 +8143,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 165.1 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19666"
 			(at 165.1 93.98 0)
 			(effects
 				(font
@@ -8327,6 +8426,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165948"
+			(at 163.83 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A4"
 			(uuid "684991e5-fb72-4d87-9aa5-ea7df0b91c8b")
 		)
@@ -8441,6 +8549,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 157.48 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3c6c75c-6c8d-4339-b2e5-bf8199efd8f3")
 		)
@@ -8503,6 +8620,15 @@
 			)
 		)
 		(property "Description" "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"
+			(at 220.98 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C316033"
 			(at 220.98 62.23 0)
 			(effects
 				(font
@@ -8585,6 +8711,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 49.53 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 49.53 24.13 0)
 			(effects
 				(font
@@ -8785,6 +8920,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 200.66 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
 			(at 200.66 34.29 0)
 			(effects
 				(font
@@ -9063,6 +9207,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C403362"
+			(at 62.23 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "375e7028-12c0-40a4-8993-28366d9ab915")
 		)
@@ -9257,6 +9410,15 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 59.69 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C720477"
 			(at 59.69 48.26 0)
 			(effects
 				(font
@@ -9762,6 +9924,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 40.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "33281cde-f15b-46a3-a9f1-72d202d84eb5")
 		)
@@ -9899,6 +10070,15 @@
 		)
 		(property "Sim.Pin" "1=K 2=A"
 			(at 149.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2286"
+			(at 149.86 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)

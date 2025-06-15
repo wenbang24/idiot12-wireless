@@ -1,4 +1,4 @@
-26216000494337396
+26552641886505177
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -72057,6 +72057,118 @@ Hotswap footprint for Kailh Choc style switches
 0
 6
 2
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.5u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.25u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.5u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.25u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_180deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_180deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_270deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_270deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
 PCM_marbastlib-hitek
 SW_HiTek_1.5u
 Footprint for Hi-Tek Series 725 ("Space Invader") Switches
@@ -72555,6 +72667,27 @@ LED RGB NeoPixel
 4
 4
 PCM_marbastlib-various
+L_Bourns_SRP6050CA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-various
+L_Bourns_SRP6060FA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-various
+L_Cenker_CKST353220
+Inductor, Cenker, CKCS3012, 3.0x3.0x1.3mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf
+Inductor ckcs
+0
+2
+2
+PCM_marbastlib-various
 Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
 connector Molex Pico-EZmate side entry
@@ -72653,12 +72786,33 @@ connector Molex Pico-EZmate side entry
 20
 7
 PCM_marbastlib-various
+PDFN3.3x3.3-8L_2
+
+
+0
+10
+6
+PCM_marbastlib-various
 PNT_RKJXU1210006
 
 
 0
 3
 1
+PCM_marbastlib-various
+QFN-13_3x4mm_P0.5mm
+21A, High-Efficiency, Fully Integrated, Synchronous, Boost Converter with Programmable Input Current Limit
+
+0
+13
+13
+PCM_marbastlib-various
+QFN-22_MP2722_2.5x3.5mm_P0.4mm
+QFN, 22pin, Monolithic Power MP2722 https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2722GRH/document_id/10035/
+MPS Monolithic Power QFN 22 battery charging buck boost dc-dc usb-c cc bc1.2
+0
+26
+22
 PCM_marbastlib-various
 QFN-60_EP_7x7_Pitch0.4mm
 QFN-60 package accroding to IS31FL3741A datasheets
@@ -72760,6 +72914,13 @@ usb usb-c 2.0 pd
 PCM_marbastlib-various
 USB_C_Receptacle_HRO_TYPE-C-31-M-14
 USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+PCM_marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-23
+USB Type-C receptacle for USB 2.0 and PD, https://en.krhro.com/Product-Details/719.html
 usb usb-c 2.0 pd
 0
 20
@@ -73177,118 +73338,6 @@ Hotswap footprint for Gateron KS33 switches
 0
 6
 2
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.5u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.25u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.5u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.25u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_180deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_180deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_270deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_270deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
 PCM_marbastlib-xp-hitek
 SW_HiTek_Mount_1.5u
 Footprint for Hi-Tek Series 725 ("Space Invader") Switches
@@ -74291,40 +74340,12 @@ LED RGB NeoPixel
 4
 4
 PCM_marbastlib-xp-various
-L_Bourns_SRP6050CA_6.6x6.4mm
-Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
-Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-PCM_marbastlib-xp-various
-L_Bourns_SRP6060FA_6.6x6.4mm
-Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
-Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-PCM_marbastlib-xp-various
-L_Cenker_CKST353220
-Inductor, Cenker, CKCS3012, 3.0x3.0x1.3mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf
-Inductor ckcs
-0
-2
-2
-PCM_marbastlib-xp-various
 MAX77751
 3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
 LiIon LiPo battery charger management usb power path switch-mode step-down buck
 0
 24
 24
-PCM_marbastlib-xp-various
-PDFN3.3x3.3-8L_2
-
-
-0
-10
-6
 PCM_marbastlib-xp-various
 PDFN3.3x3.3_EP
 
@@ -74340,33 +74361,12 @@ psp joystick analog
 6
 5
 PCM_marbastlib-xp-various
-QFN-13_3x4mm_P0.5mm
-21A, High-Efficiency, Fully Integrated, Synchronous, Boost Converter with Programmable Input Current Limit
-
-0
-13
-13
-PCM_marbastlib-xp-various
-QFN-22_MP2722_2.5x3.5mm_P0.4mm
-QFN, 22pin, Monolithic Power MP2722 https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2722GRH/document_id/10035/
-MPS Monolithic Power QFN 22 battery charging buck boost dc-dc usb-c cc bc1.2
-0
-26
-22
-PCM_marbastlib-xp-various
 STM32WB5MMG
 Bluetooth capable ARM Microcontroller
 stm32 arm wireless bluetooth low energy ble zigbee
 0
 86
 86
-PCM_marbastlib-xp-various
-USB_C_Receptacle_HRO_TYPE-C-31-M-23
-USB Type-C receptacle for USB 2.0 and PD, https://en.krhro.com/Product-Details/719.html
-usb usb-c 2.0 pd
-0
-20
-17
 PCM_marbastlib-xp-various
 nRF52840_holyiot_18010_HS
 Module containing a nRF52840 and most passives and antenna
@@ -105062,3 +105062,1347 @@ Varistor VF
 0
 2
 2
+horrortroll_lib
+1.5mm_Hole_01x04
+
+
+0
+4
+4
+horrortroll_lib
+1mm_Hole
+
+
+0
+0
+0
+horrortroll_lib
+67-23-RSHGRBYC
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+horrortroll_lib
+AMPHENOL_10051922-2010ELF
+
+
+0
+22
+22
+horrortroll_lib
+AT24C512C-SSHD-T-IPC_A
+
+
+0
+8
+8
+horrortroll_lib
+AT24C512C-SSHD-T-IPC_B
+
+
+0
+8
+8
+horrortroll_lib
+AT24C512C-SSHD-T-IPC_C
+
+
+0
+8
+8
+horrortroll_lib
+AT24C512C-SSHD-T-MFG
+
+
+0
+8
+8
+horrortroll_lib
+Amphista_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Artemisia_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Artemisia_silkscreen_new
+
+
+0
+0
+0
+horrortroll_lib
+CDRH124
+<h3>CDRH2D18/HPNP footprint</h3>{return}<p>Recommended footprint for CDRH2D18/HPNP series inductors from <a href="http://products.sumida.com/products/pdf/CDRH2D18HP.pdf">here</a>.</p>
+
+0
+2
+2
+horrortroll_lib
+CK_OS102011MA1QN1
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+horrortroll_lib
+CK_OS102011MA1QN1_flip
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+horrortroll_lib
+Cat_60_plate_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Cat_60_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Cat_TKL_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Caticorn_logo_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Caticorn_logo_soldermask
+
+
+0
+0
+0
+horrortroll_lib
+EVQWGD001
+
+
+0
+6
+6
+horrortroll_lib
+EVQWGD001_alt
+
+
+0
+6
+6
+horrortroll_lib
+Ergomech_logo
+
+
+0
+0
+0
+horrortroll_lib
+Fiducial_1mm_Mask2mm_2_side
+Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
+fiducial
+0
+0
+0
+horrortroll_lib
+GT-USB-7014G
+
+
+0
+16
+13
+horrortroll_lib
+Generic_Mounthole
+
+
+0
+1
+1
+horrortroll_lib
+Generic_Mounthole_FMask
+
+
+0
+0
+0
+horrortroll_lib
+HOLE_M2_TH
+
+
+0
+1
+0
+horrortroll_lib
+HOLE_M2_TH_lily58
+
+
+0
+1
+0
+horrortroll_lib
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+horrortroll_lib
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+horrortroll_lib
+HRO-TYPE-C-31-M-12-HandSoldering
+
+
+0
+16
+13
+horrortroll_lib
+HRO-TYPE-C-31-M-12_UDB
+
+
+0
+16
+13
+horrortroll_lib
+INDC2521X100N
+
+
+0
+2
+2
+horrortroll_lib
+IS31FL3729-QF
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+46
+33
+horrortroll_lib
+IS31FL3743A
+QFN, 40 Pin (http://www.issi.com/WW/pdf/31FL3736.pdf#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+66
+41
+horrortroll_lib
+JST_PH_S2B_1x02_Battery
+JST PH series connector, S2B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+3
+horrortroll_lib
+KMR221GLFS
+
+
+0
+5
+3
+horrortroll_lib
+LED_1206R
+rear-mount SMD MHT151RGBCT 1206 RGB LED
+LED RGB 1206 rear mount reverse
+0
+4
+4
+horrortroll_lib
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+horrortroll_lib
+LED_Connector
+
+
+0
+3
+3
+horrortroll_lib
+LED_SK6805_EC15_1.5x1.5mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+horrortroll_lib
+LED_SK6805_EC20_2x2mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+horrortroll_lib
+M2_HOLE_PCB
+
+
+0
+1
+0
+horrortroll_lib
+M2_HOLE_PCB_lily58
+
+
+0
+1
+0
+horrortroll_lib
+M2_HOLE_v2
+Mounting Hole 4.3mm, no annular, M2
+mounting hole 4.3mm no annular m2
+0
+0
+0
+horrortroll_lib
+M2_HOLE_v2_corne_2.2mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+horrortroll_lib
+MJ-4PP-9
+
+
+0
+4
+4
+horrortroll_lib
+MJ-4PP-9_alt
+
+
+0
+4
+4
+horrortroll_lib
+MJ-4PP-9_alt2
+
+
+0
+4
+4
+horrortroll_lib
+Molex_Pico-Lock_1x04_P1.00mm
+Molex Pico-Lock series connector, 504050-0491 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-Lock horizontal
+0
+6
+5
+horrortroll_lib
+Molex_PicoBlade_1x02_Battery
+Molex PicoBlade series connector, 53261-0271 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+6
+3
+horrortroll_lib
+Mounting_Hole_Envoy
+
+
+0
+1
+0
+horrortroll_lib
+Nyx_logo
+
+
+0
+0
+0
+horrortroll_lib
+Nyx_logo_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Nyx_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+PinHeader_1x05_P2.54mm_no_silk
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+horrortroll_lib
+Pinouts_Castellated_Oval
+
+
+0
+2
+0
+horrortroll_lib
+Pinouts_Castellated_Oval_01x05
+
+
+0
+10
+5
+horrortroll_lib
+Pinouts_Castellated_Oval_01x05_new
+
+
+0
+20
+5
+horrortroll_lib
+Pinouts_Castellated_Oval_01x09
+
+
+0
+18
+9
+horrortroll_lib
+Pinouts_Castellated_Oval_01x10
+
+
+0
+20
+10
+horrortroll_lib
+Pinouts_Castellated_Oval_01x12
+
+
+0
+24
+12
+horrortroll_lib
+Pinouts_Castellated_Oval_01x12_new
+
+
+0
+48
+12
+horrortroll_lib
+Pinouts_Castellated_Oval_01x12_new_flip
+
+
+0
+48
+12
+horrortroll_lib
+Pinouts_Castellated_Oval_01x13
+
+
+0
+26
+13
+horrortroll_lib
+Pinouts_Castellated_Rectangle
+
+
+0
+2
+0
+horrortroll_lib
+Pinouts_Castellated_Triangle
+
+
+0
+2
+0
+horrortroll_lib
+Pinouts_Holes_01x05
+
+
+0
+5
+5
+horrortroll_lib
+Pinouts_Holes_01x12
+
+
+0
+12
+12
+horrortroll_lib
+Pinouts_Holes_01x12_flip
+
+
+0
+12
+12
+horrortroll_lib
+ProMicro_v3
+
+
+0
+24
+24
+horrortroll_lib
+ProMicro_v3_1.1mm_holes
+
+
+0
+24
+24
+horrortroll_lib
+QMK-Firmware-logo
+
+
+0
+0
+0
+horrortroll_lib
+QMK-Firmware-logo-small
+
+
+0
+0
+0
+horrortroll_lib
+QMK-Firmware-logo-small2
+
+
+0
+0
+0
+horrortroll_lib
+QMK-VIA-logo
+
+
+0
+0
+0
+horrortroll_lib
+QMK-VIA-logo-small
+
+
+0
+0
+0
+horrortroll_lib
+QMK-VIA-logo-small_silk
+
+
+0
+0
+0
+horrortroll_lib
+RKJXT1F42001
+RKJXT1F42001
+Switch
+0
+11
+11
+horrortroll_lib
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+horrortroll_lib
+RP2040_Bento_Pinouts_THT
+
+
+0
+80
+40
+horrortroll_lib
+RP2040_logo
+
+
+0
+0
+0
+horrortroll_lib
+R_0603_1608Metric_UDB
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+horrortroll_lib
+Raspberry-Pi-logo
+
+
+0
+0
+0
+horrortroll_lib
+Raspberry-Pi-logo-small
+
+
+0
+0
+0
+horrortroll_lib
+Raspberry-Pi-logo-small_silk
+
+
+0
+0
+0
+horrortroll_lib
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+horrortroll_lib
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+horrortroll_lib
+SKQUCAA010
+
+
+0
+6
+6
+horrortroll_lib
+SLSS49E-3
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+
+0
+3
+3
+horrortroll_lib
+SOD-323
+SOD-323 (Small Outline Diode)
+
+0
+2
+2
+horrortroll_lib
+SOT-23-5_custom
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+horrortroll_lib
+SOT65P210X110-3N
+SC70 (SOT-323)
+MOSFET (N-Channel)
+0
+3
+3
+horrortroll_lib
+SSD1306_0.96in_128x64
+OLED SSD1306, 0.96 inch, 128x64 resolution
+
+0
+4
+4
+horrortroll_lib
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_ISO_FLIPPED
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+horrortroll_lib
+STAB_MX_ISO_FLIPPED_multi_layout
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+1
+0
+horrortroll_lib
+SW_Gateron_LP_1u
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile
+0
+2
+2
+horrortroll_lib
+SW_Gateron_LP_HS_1u
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+14
+2
+horrortroll_lib
+SW_HE_1.5u
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_1.25u
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_1.75u
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_1.75u_stp
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_1u
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_capslock_multi
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_left_ctrl_alt_multi
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_left_win_multi
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_right_ctrl_alt_fn_multi
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_HE_right_win_fn_multi
+Footprint for Hall Effect style switches
+hall effect switch
+0
+3
+3
+horrortroll_lib
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.5u_holes_only
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.25u_holes_only
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.75u_holes_only
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.75u_stp
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1.75u_stp_holes_only
+Footprint for Cherry MX style switches
+
+0
+2
+2
+horrortroll_lib
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+horrortroll_lib
+SW_MX_1u_F12
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+horrortroll_lib
+SW_MX_1u_F13
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+1
+1
+horrortroll_lib
+SW_MX_1u_holes_only
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+horrortroll_lib
+SW_MX_1u_holes_only_F12
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+horrortroll_lib
+SW_MX_1u_holes_only_F13
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+1
+1
+horrortroll_lib
+SW_MX_Choc_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1.5u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1.25u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+16
+2
+horrortroll_lib
+SW_MX_Choc_HS_1u_socket_reverse
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+24
+2
+horrortroll_lib
+SW_MX_Choc_HS_1u_socket_reverse_lily58
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+24
+2
+horrortroll_lib
+SW_MX_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.5u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.25u_multi_left
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+11
+2
+horrortroll_lib
+SW_MX_HS_1.25u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_multi_left
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+11
+2
+horrortroll_lib
+SW_MX_HS_1.75u_pad_1
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_pad_1_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_stp
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_stp_reversed
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1.75u_stp_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1u_envoy
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1u_envoy_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_MX_HS_1u_multi_left_1
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+11
+2
+horrortroll_lib
+SW_MX_HS_1u_multi_left_2
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+11
+2
+horrortroll_lib
+SW_MX_HS_1u_multi_right
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+11
+2
+horrortroll_lib
+SW_MX_HS_1u_socket
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+12
+2
+horrortroll_lib
+SW_SPST_Little_Turtle_2P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+horrortroll_lib
+SW_SPST_Little_Turtle_2P_no_silk
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+horrortroll_lib
+SW_SPST_Little_Turtle_2P_no_silk_reversible
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+4
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1.5u
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1.5u_corne
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1.5u_socket
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1.25u_socket
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1u
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1u_corne
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SW_choc_v1_v2_HS_1u_socket
+Hotswap footprint for Kailh Choc style switches
+
+0
+12
+2
+horrortroll_lib
+SolderJumper-2_Open_Small
+
+solder jumper bridge configuration
+0
+2
+2
+horrortroll_lib
+SolderJumper-2_Open_TrianglePad
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+horrortroll_lib
+SolderJumper-3_Bridged_12_Small
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+horrortroll_lib
+SolderJumper-3_Bridged_23_Small
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+horrortroll_lib
+SolderJumper-3_Open
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+horrortroll_lib
+SolderJumper-3_Open_Small
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+horrortroll_lib
+TFT_1.47IN_172X320_12P
+
+
+0
+12
+12
+horrortroll_lib
+TRRS-PJ-320A
+
+
+0
+4
+4
+horrortroll_lib
+TS-1088R-02526
+
+
+0
+2
+2
+horrortroll_lib
+TXB0104
+<h3>SOIC - 14</h3>{return}<p>Specifications:{return}<ul><li>Pin count:14</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>TXB0104PWR</li>{return}</ul></p>
+
+0
+14
+14
+horrortroll_lib
+TestPoint_Pad_D1.0mm_no_silk
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+horrortroll_lib
+Tinybento_Pinouts_THT
+
+
+0
+56
+28
+horrortroll_lib
+Tinybento_Pinouts_THT_no_Constellated
+
+
+0
+28
+28
+horrortroll_lib
+UDB-Mounthole
+
+
+0
+1
+1
+horrortroll_lib
+USB-C-C168688
+
+
+0
+16
+13
+horrortroll_lib
+USON-8_1.5x1.5mm_P0.4mm
+
+
+0
+10
+9
+horrortroll_lib
+USON-8_2x3mm_P0.5mm
+8-Lead Plastic USON, 2x3mm Body, 0.5mm Pitch, USON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+
+0
+11
+9
+horrortroll_lib
+Unsatisfied-logo
+
+
+0
+0
+0
+horrortroll_lib
+Wuqi_work_logo_silkscreen
+
+
+0
+0
+0
+horrortroll_lib
+Wuqi_work_logo_soldermask
+
+
+0
+0
+0
+horrortroll_lib
+XC6206P332MR
+
+
+0
+3
+3
+horrortroll_lib
+XSON-8_4x4mm_P0.8mm
+XSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
+XON NoLead
+0
+16
+9
+horrortroll_lib
+mousebites_2mm_big_width
+
+
+0
+0
+0
+horrortroll_lib
+mousebites_2mm_big_width_edge
+
+
+0
+0
+0
+horrortroll_lib
+mousebites_2mm_no_cut
+
+
+0
+0
+0

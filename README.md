@@ -47,5 +47,7 @@ This is just for one side; double it for both sides.
 - 6x Kailh Choc keycaps e.g. [this](https://www.aliexpress.com/item/32949747794.html?spm=a2g0o.productlist.main.1.460d5999529yoW&algo_pvid=ede377b0-6f3c-4e11-a73a-7adab6daf68c&algo_exp_id=ede377b0-6f3c-4e11-a73a-7adab6daf68c-0&pdp_ext_f=%7B%22order%22%3A%224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21AUD%210.31%210.31%21%21%210.20%210.20%21%40210308a417500347822807759e1e9a%2166232934108%21sea%21AU%212685707787%21ACX&curPageLogUid=KRoYxvyJp5yq&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
 **Cost**: $49.73 USD (excluding shipping)
-Estimated total: $55 USD
+
+Estimated total: $60 USD
+
 (prices converted from AUD to USD, accurate as of 2025-06-16)

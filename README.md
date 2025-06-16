@@ -1,9 +1,10 @@
 # idiot12-wireless
-the idiot12, now in wireless form factor
+the idiot12, now in wireless form factor (see [https://github.com/wenbang24/idiot17](https://github.com/wenbang24/idiot17) and [https://github.com/wenbang24/idiot12](https://github.com/wenbang24/idiot12) for context)
 
-(see [https://github.com/wenbang24/idiot17](https://github.com/wenbang24/idiot17) and [https://github.com/wenbang24/idiot12](https://github.com/wenbang24/idiot12) for context)
 a wireless split keyboard with every alpha key fitting on one layer with 12 keys
 uses holyiot 18010 nRF52840 module, USB-C charging, and Kailh Choc switches
+
+reduce your finger movement, and have your thumb and pinky free to do other things
 ![image](img/keymap1.png)
 ![image](img/casev1.png)
 ![image](img/pcbv3.1_4.png)

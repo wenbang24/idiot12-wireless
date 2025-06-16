@@ -5,6 +5,8 @@ description: "12 keys, one alpha layer - now in wireless form factor!"
 created_at: "2025-05-22"
 ---
 
+total time (so far): 27 hrs
+
 # Journal of Changes
 ## 22 May 2025 - Keymap
 Initial draft of the alpha layer (note: will probably not use qwerty because most frequently used letters should only require one keypress)

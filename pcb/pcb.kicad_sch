@@ -7625,6 +7625,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C160976"
+			(at 187.96 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b6df454b-0482-4e67-a8f3-8b6bd472460a")
 		)
@@ -7821,6 +7830,15 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 227.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295747"
 			(at 227.33 97.79 0)
 			(effects
 				(font

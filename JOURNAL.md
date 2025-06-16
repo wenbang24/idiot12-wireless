@@ -75,7 +75,9 @@ Time spent: 4 hrs
 A few minor changes with routing, modelled the case, and started researching for parts to use in the BOM
 
 Time spent: 5 hrs
-![image](img/pcbv3.1.png)
+![image](img/pcbv3.1_1.png)
+![image](img/pcbv3.1_2.png)
+![image](img/pcbv3.1_3.png)
 ![image](img/casev1.png)
 
 ## 17 June 2025 - BOM part 2
@@ -84,4 +86,3 @@ Also calculated the cost of the BOM, which is around $55 USD (excluding shipping
 (it took way too long to find the JST PH connectors)
 
 Time spent: 3 hrs
-

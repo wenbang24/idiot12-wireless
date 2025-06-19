@@ -5,7 +5,7 @@ description: "12 keys, one alpha layer - now in wireless form factor!"
 created_at: "2025-05-22"
 ---
 
-total time (so far): 27 hrs
+total time (so far): 32 hrs
 
 # Journal of Changes
 ## 22 May 2025 - Keymap
@@ -88,3 +88,10 @@ Also calculated the cost of the BOM, which is around $55 USD (excluding shipping
 (it took way too long to find the JST PH connectors)
 
 Time spent: 3 hrs
+
+## 19 June 2025 - Firmware
+Made firmware for the keyboard using ZMK.
+
+Honestly I have no idea whether it works or not, but I guess I will find out when I get the parts.
+
+Time spent: 5 hrs

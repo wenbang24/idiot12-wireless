@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "horrortroll_lib")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Personal_Lib/Footprint/horrortroll_lib.pretty")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/TP4056")(options "")(descr ""))
 )

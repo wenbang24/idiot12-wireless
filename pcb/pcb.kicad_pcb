@@ -5143,7 +5143,7 @@
 		(uuid "64934a81-1df7-490d-a45d-041b82e04771")
 		(at 54.49 75.39)
 		(property "Reference" "U3"
-			(at -0.795 3.362 180)
+			(at -0.795 3.362 0)
 			(layer "B.SilkS")
 			(uuid "d1f5cdfb-3fa9-4837-8068-8044dd2b9dd6")
 			(effects
@@ -5155,7 +5155,7 @@
 			)
 		)
 		(property "Value" "TP4056"
-			(at 6.825 -3.362 180)
+			(at 6.825 -3.362 0)
 			(layer "B.Fab")
 			(uuid "b37d5460-5506-43e4-92d3-b611b62034b6")
 			(effects
@@ -5167,7 +5167,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "507cf3ba-7299-4966-affb-4832b34c631c")
@@ -5180,7 +5180,7 @@
 			)
 		)
 		(property "Description" "Standalone Linear Li-lon Battery Charger with Thermal Protection"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b081071f-94f1-4df2-8ae7-633f133ca973")
@@ -5440,6 +5440,17 @@
 			(uuid "bdc1de8f-392f-43b3-ab6d-fbaa4d71d128")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/TP4056/TP4056.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "horrortroll_lib:TS-1088R-02526"
 		(layer "B.Cu")

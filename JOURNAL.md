@@ -95,3 +95,26 @@ Made firmware for the keyboard using ZMK.
 Honestly I have no idea whether it works or not, but I guess I will find out when I get the parts.
 
 Time spent: 5 hrs
+
+## 7 July 2025 - PCBA
+PCB is here!
+
+Soldered on the NRF52840 module, SRV-05, the USB-C port, and the choc sockets. Figuring out the orentation of the SRV-05 was a bit tricky, but I think (hope) I got it right (drag soldering is a lot easier than I thought it would be).
+
+(also i only did one half)
+
+![image](img/kb1_1.png)
+![image](img/kb1_2.png)
+
+Time spent: 3 hrs
+
+## 8 July 2025 - Firmware
+The keycaps I ordered are a bit long and actuating the adjacent switch, so I had to sand some off with the Dremel. ![image](img/kb2_1.png)
+
+Printed the plate.
+
+Spent ages figuring out how to flash the bootloader.
+
+![image](img/bootloader1_1.png)
+
+Time spent: 5 hrs

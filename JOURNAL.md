@@ -118,3 +118,9 @@ Spent ages figuring out how to flash the bootloader.
 ![image](img/bootloader1_1.png)
 
 Time spent: 5 hrs
+
+## 12 July 2025 - Firmware again
+NONE OF IT WORKS AAAAAAAAAA
+(it's not showing up when i press reset twice)
+
+Time spent: 4 hrs
